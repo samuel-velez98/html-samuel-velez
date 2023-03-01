@@ -1,5 +1,4 @@
-h1 {
-  color: greenyellow;
-  font-size: 100px;
-  text-aling: center;
+#prueba {
+  text-shadow: 10px 10px red;
+  text-transform: uppercase;
 }
