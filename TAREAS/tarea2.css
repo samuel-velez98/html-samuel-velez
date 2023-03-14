@@ -1,0 +1,21 @@
+#frase {
+  text-shadow: 2px 2px red;
+}
+#frasen {
+  background-color: yellow;
+}
+#frasesita {
+  color: green;
+}
+.ben {
+  background-color: black;
+  color: white;
+}
+.velez {
+  text-transform: uppercase;
+  color: blue;
+}
+#ultima {
+  font-size: 30px;
+  text-shadow: 3px 3px red;
+}
